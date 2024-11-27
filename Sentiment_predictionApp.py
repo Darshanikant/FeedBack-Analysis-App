@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Load the saved models
-model_file = r"C:\Users\sunil\DK\vs code\sentiment prediction by text\model.pkl"
+model_file = "model.pkl"
 tfidf_file = r"C:\Users\sunil\DK\vs code\sentiment prediction by text\tfidf.pkl"
 
 with open(model_file, 'rb') as file:
