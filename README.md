@@ -9,7 +9,7 @@
 - Usage
 - Use Cases
 - Model Performance
-- Acknowledgements
+- Acknowledgements 
 # Overview
 - The app takes customer feedback as input and outputs the sentiment (positive or negative) based on the analysis. With an accuracy of 82%, the model provides reliable insights, making it valuable for customer feedback analysis, product reviews, and service quality monitoring.
 
