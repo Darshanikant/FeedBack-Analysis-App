@@ -4,7 +4,7 @@ import numpy as np
 
 # Load the saved models
 model_file = "model.pkl"
-tfidf_file = r"C:\Users\sunil\DK\vs code\sentiment prediction by text\tfidf.pkl"
+tfidf_file = "tfidf.pkl"
 
 with open(model_file, 'rb') as file:
     classifier = pickle.load(file)
