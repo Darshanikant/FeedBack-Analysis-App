@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 #read the data set
-data=pd.read_csv(r"C:\Users\sunil\Desktop\DK\vs code\sentiment prediction by text\Restaurant_Reviews.tsv",delimiter='\t',quoting=3)
+data=pd.read_csv("Restaurant_Reviews.tsv",delimiter='\t',quoting=3)
 
 import re
 import nltk
